@@ -12,8 +12,8 @@
 #include "SWTFT.h"
 
 // Use the include which corresponde to your arduino
-//#include "mega_24_shield.h"
-#include "uno_24_shield.h"
+#include "mega_24_shield.h"
+//#include "uno_24_shield.h"
 
 
 #define TFTWIDTH   240
